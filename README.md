@@ -9,7 +9,7 @@ Popular libraries for AI/ML in Java,
 This repo holds example projects on various branches of AI/ML/Data Science like,
 1. Supervised learning - regression, classifcation
 2. Unsupervised learning - clustering
-3. CNN
+3. Neurak networks, CNN
 4. Vectors, Embeddings
 5. Object detection
 6. Image classification
