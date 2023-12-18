@@ -10,7 +10,7 @@ This repo holds example projects on various branches of AI/ML/Data Science like,
 1. Supervised learning - regression, classifcation
 2. Unsupervised learning - clustering
 3. CNN
-4. Vectods, Embeddings
+4. Vectors, Embeddings
 5. Object detection
 6. Image classification
 7. NLP - tokenization, POS tagging, NER, language detection, stemming, lemmitization, translation
