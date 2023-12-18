@@ -16,3 +16,5 @@ This repo holds example projects on various branches of AI/ML/Data Science like,
 7. NLP - tokenization, POS tagging, NER, language detection, stemming, lemmitization, translation
 8. Open AI - chat, chat completion, prompt elements, functions, fine tuning, image generation, prompting techniques
 9. Use cases - sentiment analysis, chatBOT, face recognition, object identification etc.
+10. LangChain
+11. Huggingface with Java
