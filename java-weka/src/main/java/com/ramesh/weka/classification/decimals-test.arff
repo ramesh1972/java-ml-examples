@@ -1,0 +1,14 @@
+@RELATION decimals-unknown
+
+@ATTRIBUTE decimal	REAL
+@ATTRIBUTE class 	{small,medium,large}
+
+@DATA
+.2,?
+1.7,?
+4.0,?
+7.0,?
+1.6,?
+2.1,?
+2,?
+1.7,?

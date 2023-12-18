@@ -1,0 +1,38 @@
+@relation weather
+@attribute outlook {sunny,overcast,rainy}
+@attribute temperature numeric
+@attribute humidity numeric
+@attribute windy {true,false}
+@attribute play {yes,no}
+
+@data
+sunny,85,85,false,no
+sunny,80,90,true,no
+overcast,83,86,false,yes
+rainy,70,96,false,yes
+rainy,68,80,false,yes
+rainy,65,70,true,no
+overcast,64,65,true,yes
+sunny,72,40,false,no
+sunny,69,60,false,yes
+overcast,75,90,true,no
+rainy,62,30,true,no
+overcast,30,62,true,yes
+sunny,82,81,false,no
+sunny,70,67,false,yes
+overcast,40,90,true,no
+sunny,60,65,false,no
+sunny,90,60,true,yes
+overcast,83,86,false,yes
+rainy,73,76,false,no
+rainy,48,50,false,yes
+rainy,69,77,true,no
+overcast,56,65,true,yes
+sunny,78,77,false,no
+sunny,54,67,false,yes
+overcast,63,70,true,no
+rainy,20,37,true,no
+overcast,36,52,true,yes
+sunny,72,71,false,no
+sunny,80,57,false,yes
+overcast,50,70,true,no
